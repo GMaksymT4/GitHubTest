@@ -1,0 +1,30 @@
+style.css
+body {
+    background-color: #121212;
+    color: #eeeeee;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 40px;
+}
+
+nav a {
+    color: crimson;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 0.8em;
+    color: #666;
+}
